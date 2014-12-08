@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "what": "",
+    "where": "",
+    "latitude": "",
+    "longitude": "",
+    "firstListing": 0,
+    "lastListing": 0,
+    "totalListings": 0,
+    "pageCount": 0,
+    "currentPage": 0,
+    "listingsPerPage": 0,
+    "prov": ""
+  },
+  "listings": null
+}
